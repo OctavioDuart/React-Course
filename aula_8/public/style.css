@@ -1,0 +1,18 @@
+*{
+    margin:0;
+}
+
+button{
+    margin-left: 38%;
+    color: #fff;
+    background-color: #218838;
+    border-color: #1e7e34;
+    height: 55px;
+    margin-top: 19%;
+    cursor: pointer;
+}
+
+p{
+    margin-left: 42%;
+    margin-top:2%
+}
