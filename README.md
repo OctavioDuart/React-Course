@@ -21,3 +21,7 @@ Aula 8 -  Eventos onClick  (Introdução ao this)
 Aula 9 -  Eventos onChange - Funções Aninhadas com Arrow Function
 
 Aula 10 - Entendendo o super()
+
+Aula 11 - State - Introdução
+
+Aula 12 - State Parte II - Entendendo o bind
