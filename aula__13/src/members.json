@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "name": "Robert Johnson",
+        "musics": "Cross Road Blues , Me and The Devil Blues , Walkin' Blues"
+    },
+
+    {
+        "id": 2,
+        "name": "Brian Jones",
+        "musics": "I Can't Get No , Miss You , Angie"
+    },
+    {
+        "id": 3,
+        "name":"Jimi Hendrix",
+        "musics":"All Along The Watchtower , Hey Joe , Purple Haze"
+    },
+    {
+        "id": 4,
+        "name":"Janis Joplin",
+        "musics":"Maybe , Cry Baby , Piece of my Heart"
+    },
+    {
+        "id": 5,
+        "name": "Jim Morrison",
+        "musics": "Riders on the Storm , Light my Fire , The End"
+    },
+    {
+        "id":6,
+        "name": "Kurt Kobain",
+        "musics": "Sappy , She Only Lies , Burn The Rain"
+    },
+    {
+        "id": 7 , 
+        "name": "Amy Winehouse", 
+        "musics" : "Rehab , Valerie , Back to Black"
+    }
+
+]

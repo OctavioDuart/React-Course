@@ -1,0 +1,42 @@
+*{
+    margin:0;
+}
+
+header{ 
+    color: #fff;
+    background-color: rgb(49, 48, 48);   
+    height: 120px;
+    margin-bottom: 5%
+}
+
+header p {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 1%
+}
+
+header input {
+    width: 20%;
+    margin-left: 40%;
+    height: 25%;
+    text-align: center;
+}
+
+section{
+    color: #fff;
+    background-color: #222;   
+    height: 120px; 
+}
+
+section p {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 1%
+}
+
+section input {
+    width: 20%;
+    margin-left: 40%;
+    height: 25%;
+    text-align: center;
+}
