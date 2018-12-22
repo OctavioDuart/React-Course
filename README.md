@@ -1,5 +1,5 @@
 # React-Course
-:blue_book:  Annotations  
+:blue_book:  Anotações  
 
 
 Aula 1 - O básico para renderizar um componente
