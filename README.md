@@ -31,3 +31,8 @@ Aula 13 - Props - Introdução
 Aula 14 - Props II - (Renderização de dados com map)
 
 Aula 15 - Props II - (Renderização de dados com map)
+
+Aula 16 - Estilização de Componentes com Glamor
+
+Aula 17 - Criando Campo de Busca Com o Filter
+
