@@ -36,3 +36,13 @@ Aula 16 - Estilização de Componentes com Glamor
 
 Aula 17 - Criando Campo de Busca Com o Filter
 
+Aula 18 - Introdução ao  React Router
+
+Aula 19 - Usando o Link do React Router
+
+Aula 20 - Parâmetros na URL - Conhecendo o BrowserRouter , HashRouter  e MemoryRouter
+
+Aula 21 - Substituindo o Exact pelo Switch
+
+Aula 22 - Tratando 404
+
