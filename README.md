@@ -53,3 +53,5 @@ Aula 24 - Ciclo de Vida de um Componente II - (Conhecendo o componentWillUpdate 
 Aula 25 - Renderização Condicional 
 
 Aula 26 - Iniciando com formulários
+
+Aula 27 - Gerando formulários com state 
