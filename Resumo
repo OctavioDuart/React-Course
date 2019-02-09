@@ -1,0 +1,37 @@
+
+
+                                          Componente de Classe e Componente Funcional :
+
+A sintaxe de um componente de classe é : 
+
+
+                                    export default class App extends Component {
+                                      render() {
+                                        return (
+                                          <h1>Hello World</h1>
+                                        )
+                                      }
+                                    }
+
+
+Mas mesmo tendo a sintaxe de um componente de classe este componente é considerado um componente funcional, isso acontece
+porque um componente só é considerado de classe quando ele manipula seu estado . Se sua função é apenas renderizar dados
+manipular props ou coisas do tipo ele é considerado um componente funcional .
+
+Ou seja uma escrita mais apropriada para o código acima seria : 
+
+
+                                  const App = () => (
+                                    <h1>Hello World</h1>
+                                  )
+
+                                  export default App;
+
+
+
+Menos linhas de código com o mesmo resultado . 
+
+____________________________________________________________________________________________________________________________
+
+
+
